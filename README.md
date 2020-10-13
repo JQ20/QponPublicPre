@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/MSc-CS-HKBU/comp7270-fall2020-s2-sails-JQ20/blob/master/readmesource/redlogo.png">
+<img align="right" src="https://github.com/JQ20/QponPublicPre/blob/main/readmesource/redlogo.png">
 
 
 [![](https://img.shields.io/badge/Bulma-0.9.0-green)](https://www.baidu.com)
@@ -23,15 +23,15 @@ Qpon suppports the following function,click to see the **demonstration**.
 
 ### <a name="1">Read  Voucher</a>
 Read all Voucher and their details.
-![image]()
+![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/read.gif)
 ### <a name="2">Create new Voucher</a>
-![image]()
+![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/create.gif)
 ### <a name="3">Update Voucher</a>
-![image]()
+![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/update.gif)
 ### <a name="4">Delete Voucher</a>
-![image]()
+![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/delete.gif)
 ### <a name="5">Search Voucher and return Pagination result</a>
 Search Voucher,if results exist,Pagination results will show.Otherwise,the Not Found hint will show.
-![image]()
+![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/search.gif)
 
 
