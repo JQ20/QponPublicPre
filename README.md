@@ -22,16 +22,21 @@ Qpon suppports the following function,click to see the **demonstration**.
 5. <a href="#5">Search&Pagination</a>
 
 ### <a name="1">Read  Voucher</a>
-Read all Voucher and their details.
+- Read all Voucher and each region displays the two latest coupons.
+- Clicking the link on the first page will see this detail pageand their details.
 ![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/read.gif)
 ### <a name="2">Create new Voucher</a>
+- Create new Voucher and homepage will show the two latest coupons in each region
 ![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/create.gif)
 ### <a name="3">Update Voucher</a>
+- Update voucher in the admin page
 ![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/update.gif)
 ### <a name="4">Delete Voucher</a>
+- Delete voucher in the update page when administrators update the vocher
 ![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/delete.gif)
 ### <a name="5">Search Voucher and return Pagination result</a>
-Search Voucher,if results exist,Pagination results will show.Otherwise,the Not Found hint will show.
+- Search Voucher,if results exist,Pagination results will show.
+ Otherwise,the Not Found hint will show.
 ![image](https://github.com/JQ20/QponPublicPre/blob/main/readmesource/search.gif)
 
 
